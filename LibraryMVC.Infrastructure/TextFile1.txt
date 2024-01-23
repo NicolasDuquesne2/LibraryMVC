@@ -1,2 +1,0 @@
-﻿Add-Migration Library_V1 -Context LibraryDbContext -StartupProject LibraryMVC -Project LibraryMVC.Infrastructure -OutputDir Data\Migrations
-Remove-Migration -Context LibraryDbContext -Project LibraryMVC.Infrastructure
