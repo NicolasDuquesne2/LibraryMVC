@@ -1,0 +1,16 @@
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\bin\Debug\net8.0\LibraryMVC.Infrastructure.deps.json
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\bin\Debug\net8.0\LibraryMVC.Infrastructure.dll
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\bin\Debug\net8.0\LibraryMVC.Infrastructure.pdb
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.AssemblyInfoInputs.cache
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.AssemblyInfo.cs
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.csproj.CoreCompileInputs.cache
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.sourcelink.json
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.dll
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\refint\LibraryMVC.Infrastructure.dll
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.pdb
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\ref\LibraryMVC.Infrastructure.dll
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.csproj.AssemblyReference.cache
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\bin\Debug\net8.0\LibraryMVC.Core.dll
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\bin\Debug\net8.0\LibraryMVC.Core.pdb
+G:\moi\Documents\M2i\Bagnols_sur_cèze\Modules\LibraryMVC\LibraryMVC.Infrastructure\obj\Debug\net8.0\LibraryMVC.Infrastructure.csproj.CopyComplete
