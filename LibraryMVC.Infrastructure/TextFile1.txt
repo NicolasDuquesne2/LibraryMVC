@@ -1,2 +1,8 @@
 ﻿Add-Migration Library_V1 -Context LibraryDbContext -StartupProject LibraryMVC -Project LibraryMVC.Infrastructure -OutputDir Data\Migrations
 Remove-Migration -Context LibraryDbContext -Project LibraryMVC.Infrastructure
+
+
+<select asp-for="Grade"
+    asp-items="new SelectList(Enum.GetValues(typeof(ContosoUniversity.Entities.Grade)))"
+    class="form-control">
+</select>
