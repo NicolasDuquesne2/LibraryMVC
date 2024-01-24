@@ -7,9 +7,12 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using LibraryMVC.Data;
 using LibraryMVC.Entities;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace LibraryMVC.Controllers
 {
+    [Authorize]
     public class AdminsController : Controller
     {
         private readonly LibraryDbContext _context;
