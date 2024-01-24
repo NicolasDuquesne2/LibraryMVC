@@ -11,6 +11,10 @@ namespace LibraryMVC.Entities
         public string Titre { get; set; } = null!;
         public int NombreDePage { get; set; }
 
+        public int DomaineId { get; set; }
+
+        public int AuteurId { get; set; }
+
         public Domaine Domaine { get; set; } = null!;
 
         public Auteur Auteur { get; set; } = null!;
