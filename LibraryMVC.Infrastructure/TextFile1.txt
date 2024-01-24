@@ -6,3 +6,5 @@ Remove-Migration -Context LibraryDbContext -Project LibraryMVC.Infrastructure
     asp-items="new SelectList(Enum.GetValues(typeof(ContosoUniversity.Entities.Grade)))"
     class="form-control">
 </select>
+
+yr-formation@outlook.com
