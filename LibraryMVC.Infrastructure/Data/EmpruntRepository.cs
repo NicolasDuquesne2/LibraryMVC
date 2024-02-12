@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LibraryMVC.Data
 {
-    internal class EmpruntRepository
+    public class EmpruntRepository
     {
         protected LibraryDbContext Context { get; }
 

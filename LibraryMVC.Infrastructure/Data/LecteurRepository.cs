@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibraryMVC.Data
 {
-    internal class LecteurRepository
+    public class LecteurRepository
     {
     }
 }
