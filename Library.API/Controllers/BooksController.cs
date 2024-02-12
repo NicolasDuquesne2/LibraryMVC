@@ -42,10 +42,11 @@ namespace Library.API.Controllers
 
         // POST api/<BooksController>
         [HttpPost]
+        [ActionName(nameof(Post))]
         public async Task<ActionResult<Livre>> Post([FromBody] Livre livre)
         {
             await _repository.Insert(livre);
-            return CreatedAtAction("PostLivre", new {id = livre.Id}, livre);
+            return CreatedAtAction(nameof(Post), new {id = livre.Id}, livre);
         }
 
         // PUT api/<BooksController>/5

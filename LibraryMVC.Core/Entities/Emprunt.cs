@@ -12,7 +12,7 @@ namespace LibraryMVC.Entities
         public DateTime DateRetour { get; set; }
 
         public Lecteur Lecteur { get; set; } = null!;
-        public Livre Livre { get; set; } = null!;
+        public Livre? Livre { get; set; } = null!;
 
     }
 }

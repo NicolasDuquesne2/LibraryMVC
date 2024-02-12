@@ -9,6 +9,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<LibraryDbContext>(options => options.UseSqlServer(connectionString));
 builder.Services.AddScoped<LivreRepository>();
 builder.Services.AddScoped<AuteurRepository>();
+builder.Services.AddScoped<LecteurRepository>();
 builder.Services
     .AddControllers()
     .AddJsonOptions(options =>
