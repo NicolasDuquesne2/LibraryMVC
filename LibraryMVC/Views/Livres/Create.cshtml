@@ -1,7 +1,9 @@
-﻿@model LibraryMVC.Entities.Livre
+﻿@model LibraryMVC.Models.LivreViewModel
 
 @{
     ViewData["Title"] = "Create";
+    var domaines = ViewData["Domaines"] as SelectList;
+    var auteurs = ViewData["Auteurs"] as SelectList;
 }
 
 <h1>Create</h1>
@@ -21,6 +23,20 @@
                 <label asp-for="NombreDePage" class="control-label"></label>
                 <input asp-for="NombreDePage" class="form-control" />
                 <span asp-validation-for="NombreDePage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DomaineId" class="control-label"></label>
+                <select asp-for="DomaineId"
+                        asp-items="domaines"
+                        class="form-control"></select>
+                <span asp-validation-for="DomaineId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AuteurId" class="control-label"></label>
+                <select asp-for="AuteurId"
+                        asp-items="auteurs"
+                        class="form-control"></select>
+                <span asp-validation-for="AuteurId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

@@ -42,6 +42,56 @@
         </dd>
     </dl>
 </div>
+<div class="col-lg-6">
+    <h4>Livres</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Titre:
+                </th>
+                <th>
+                    Nombre de pages:
+                </th>
+                <th>
+                    Domaine:
+                </th>
+                <th>
+                    Nom de l'auteur:
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Livres)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Titre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreDePage)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Domaine.Nom)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Auteur.Nom)
+                    </td>
+                    <td>
+                        <a asp-controller="Livres" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+    <p>
+        <a asp-controller="Livres"
+           asp-action="Create"
+           asp-route-id="@Model.Id">Ajouter nouveau livre</a>
+    </p>
+</div>
 <div>
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
     <a asp-action="Index">Back to List</a>

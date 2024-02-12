@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using LibraryMVC.Data;
 using LibraryMVC.Entities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace LibraryMVC.Controllers
 {
+    [Authorize]
     public class AuteursController : Controller
     {
         private readonly LibraryDbContext _context;
@@ -34,6 +36,8 @@ namespace LibraryMVC.Controllers
             }
 
             var auteur = await _context.Auteurs
+                .Include(a => a.Livres)
+                .ThenInclude(l => l.Domaine)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (auteur == null)
             {

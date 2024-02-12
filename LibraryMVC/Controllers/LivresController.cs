@@ -7,9 +7,12 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using LibraryMVC.Data;
 using LibraryMVC.Entities;
+using Microsoft.AspNetCore.Authorization;
+using LibraryMVC.Models;
 
 namespace LibraryMVC.Controllers
 {
+    [Authorize]
     public class LivresController : Controller
     {
         private readonly LibraryDbContext _context;
@@ -44,8 +47,21 @@ namespace LibraryMVC.Controllers
         }
 
         // GET: Livres/Create
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
+        
+
+            ViewData["Domaines"] = new SelectList(
+                (await _context.Domaines.ToListAsync()),
+                "Id",
+                "Nom");
+
+            ViewData["Auteurs"] = new SelectList(
+               (await _context.Auteurs.ToListAsync()),
+               "Id",
+               "Nom");
+
+
             return View();
         }
 
@@ -54,15 +70,33 @@ namespace LibraryMVC.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Titre,NombreDePage,Id")] Livre livre)
+        public async Task<IActionResult> Create(LivreViewModel livreViewModel)
         {
             if (ModelState.IsValid)
             {
+                Livre livre = new()
+                {
+                    Titre = livreViewModel.Titre,
+                    NombreDePage = livreViewModel.NombreDePage,
+                    AuteurId = livreViewModel.AuteurId,
+                    DomaineId = livreViewModel.DomaineId
+                };
                 _context.Add(livre);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(livre);
+
+            ViewData["Domaines"] = new SelectList(
+               (await _context.Domaines.ToListAsync()),
+               "Id",
+               "Nom");
+
+            ViewData["Auteurs"] = new SelectList(
+               (await _context.Auteurs.ToListAsync()),
+               "Id",
+               "Nom");
+
+            return View(livreViewModel);
         }
 
         // GET: Livres/Edit/5

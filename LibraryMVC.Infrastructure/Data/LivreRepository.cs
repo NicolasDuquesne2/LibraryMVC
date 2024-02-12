@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LibraryMVC.Data
 {
-    internal class LivreRepository
+    public class LivreRepository
     {
         protected LibraryDbContext Context { get; }
 
@@ -18,11 +18,11 @@ namespace LibraryMVC.Data
 
         public async Task<Livre?> GetById(int id)
         {
-            return await Context.Livres.FindAsync(id);
+            return await Context.Livres.Include(l => l.Domaine).Include(l => l.Auteur).FirstOrDefaultAsync(l => l.Id == id);
         }
         public async Task<IEnumerable<Livre>> ListAll()
         {
-            return await Context.Livres.ToListAsync();
+            return await Context.Livres.Include(l => l.Domaine).Include(l => l.Auteur).ToListAsync();
         }
 
         public async Task<Livre> Insert(Livre livre)
