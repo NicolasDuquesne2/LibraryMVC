@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LibraryMVC.Data
 {
-    internal class AuteurRepository
+    public class AuteurRepository
     {
         protected LibraryDbContext Context { get; }
 
