@@ -43,7 +43,7 @@ namespace Library.API.Controllers
         // POST api/<BooksController>
         [HttpPost]
         [ActionName(nameof(Post))]
-        public async Task<ActionResult<Livre>> Post([FromBody] Livre livre)
+        public async Task<ActionResult<Livre>> Post( Livre livre)
         {
             await _repository.Insert(livre);
             return CreatedAtAction(nameof(Post), new {id = livre.Id}, livre);
@@ -51,7 +51,7 @@ namespace Library.API.Controllers
 
         // PUT api/<BooksController>/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody] Livre livre)
+        public async Task<IActionResult> Put(int id,  Livre livre)
         {
             if(id != livre.Id)
             {
@@ -66,7 +66,7 @@ namespace Library.API.Controllers
                 Console.WriteLine(ex.Message);
             }
 
-            return Ok(livre);
+            return NoContent();
         }
 
         // DELETE api/<BooksController>/5
