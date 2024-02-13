@@ -10,6 +10,6 @@ namespace LibraryMVC.Entities
     {
         public string Grade { get; set; } = null!;
 
-        public HashSet<Livre>? Livres { get; set; } = new HashSet<Livre>();
+        public HashSet<Livre> Livres { get; set; } = new HashSet<Livre>();
     }
 }

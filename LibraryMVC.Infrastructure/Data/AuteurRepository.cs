@@ -18,7 +18,7 @@ namespace LibraryMVC.Data
 
         public async Task<Auteur?> GetById(int id)
         {
-            return await Context.Auteurs.FindAsync(id);
+            return await Context.Auteurs.Include(a => a.Livres).ThenInclude(l => l.Domaine).FirstOrDefaultAsync(a => a.Id == id);
         }
 
         public async Task<IEnumerable<Auteur>> ListAll()
