@@ -34,7 +34,7 @@ namespace LibraryMVC.Data
 
         public async Task Update(Livre livre)
         {
-            Context.Update(livre);
+            Context.Entry(livre).State = EntityState.Modified;
             await Context.SaveChangesAsync();
         }
 

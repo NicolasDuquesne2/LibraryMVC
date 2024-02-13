@@ -15,7 +15,7 @@ namespace LibraryMVC.Entities
 
         public int AuteurId { get; set; }
 
-        public Domaine Domaine { get; set; } = null!;
+        public Domaine Domaine { get; set; } =null!;
 
         public Auteur Auteur { get; set; } = null!;
         public HashSet<Emprunt>? Emprunts { get; set;} = new HashSet<Emprunt>();
