@@ -5,8 +5,16 @@ using System.Text.Json.Serialization;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-builder.Services.AddDbContext<LibraryDbContext>(options => options.UseSqlServer(connectionString));
+
+if(builder.Environment.IsDevelopment()) {
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+    builder.Services.AddDbContext<LibraryDbContext>(options => options.UseSqlServer(connectionString));
+} else if(builder.Environment.IsProduction()) {
+    var connectionString = builder.Configuration.GetConnectionString("AzureConnection") ?? throw new InvalidOperationException("Connection string 'AzureConnection' not found.");
+    builder.Services.AddDbContext<LibraryDbContext>(options => options.UseSqlServer(connectionString));
+}
+
+
 builder.Services.AddScoped<LivreRepository>();
 builder.Services.AddScoped<AuteurRepository>();
 builder.Services.AddScoped<LecteurRepository>();
