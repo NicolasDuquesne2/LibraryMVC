@@ -17,187 +17,187 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryMVC
 build_property.RootNamespace = LibraryMVC
-build_property.ProjectDir = C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC\
+build_property.ProjectDir = C:\Users\Administrateur\source\repos\LibraryMVC\LibraryMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC
+build_property.MSBuildProjectDirectory = C:\Users\Administrateur\source\repos\LibraryMVC\LibraryMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Admins/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Admins/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Admins/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Admins/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Admins/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Admins/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Admins/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Admins/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Admins/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Admins/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Adresses/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Adresses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Adresses/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Adresses/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Adresses/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Adresses/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Adresses/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Adresses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Adresses/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Adresses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Auteurs/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Auteurs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZXVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Auteurs/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Auteurs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZXVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Auteurs/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Auteurs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZXVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Auteurs/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Auteurs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZXVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Auteurs/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Auteurs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZXVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Domaines/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Domaines/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9tYWluZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Domaines/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Domaines/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9tYWluZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Domaines/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Domaines/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9tYWluZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Domaines/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Domaines/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9tYWluZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Domaines/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Domaines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9tYWluZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Emprunts/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Emprunts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcnVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Emprunts/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Emprunts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcnVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Emprunts/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Emprunts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcnVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Emprunts/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Emprunts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcnVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Emprunts/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Emprunts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcnVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Home/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdGV1cnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdGV1cnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdGV1cnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdGV1cnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Lecteurs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdGV1cnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Livres/Create.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Livres/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Livres/Delete.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Livres/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Livres/Details.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Livres/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Livres/Edit.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Livres/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Livres/Index.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Livres/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Shared/Error.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/_ViewImports.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/_ViewStart.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Source/Repos/LibraryMVC/LibraryMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Administrateur/source/repos/LibraryMVC/LibraryMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nwjfw41hko

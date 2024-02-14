@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj": {}
+    "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj": {
+    "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj",
         "projectName": "LibraryMVC.Core",
-        "projectPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj": {
+    "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj",
         "projectName": "LibraryMVC.Infrastructure",
-        "projectPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj"
+              "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj": {
+                "projectPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj": {
+    "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj",
         "projectName": "LibraryMVC",
-        "projectPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC\\LibraryMVC.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,11 +160,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj": {
-                "projectPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj"
+              "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj": {
+                "projectPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Core\\LibraryMVC.Core.csproj"
               },
-              "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj"
+              "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjUNCQNMgJSg3dTR98l5iRIWcFQ2NocHTbJeqBz3Z427Dqy4uw34/fXKvJVdDK8yEEiQsJM9/pEqut53hB7THQ==",
+  "dgSpecHash": "zr2+dhyb7ZpiYBw8qgkjzPKfogpwHmw9F/sKk/Tt22zEGQofGuAkGCeju3br+FYbZeDMuFXgLssR352IuWBWBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrateur\\Source\\Repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Administrateur\\source\\repos\\LibraryMVC\\LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrateur\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Administrateur\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
