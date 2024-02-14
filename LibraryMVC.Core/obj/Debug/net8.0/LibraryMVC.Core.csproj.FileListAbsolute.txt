@@ -22,3 +22,15 @@ C:\Users\Administrateur\Desktop\ProjetFR\LibraryMVC.Core\obj\Debug\net8.0\Librar
 C:\Users\Administrateur\Desktop\ProjetFR\LibraryMVC.Core\obj\Debug\net8.0\refint\LibraryMVC.Core.dll
 C:\Users\Administrateur\Desktop\ProjetFR\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.pdb
 C:\Users\Administrateur\Desktop\ProjetFR\LibraryMVC.Core\obj\Debug\net8.0\ref\LibraryMVC.Core.dll
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\bin\Debug\net8.0\LibraryMVC.Core.deps.json
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\bin\Debug\net8.0\LibraryMVC.Core.dll
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\bin\Debug\net8.0\LibraryMVC.Core.pdb
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.AssemblyInfo.cs
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.sourcelink.json
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.dll
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\refint\LibraryMVC.Core.dll
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\LibraryMVC.Core.pdb
+C:\Users\Administrateur\Source\Repos\LibraryMVC\LibraryMVC.Core\obj\Debug\net8.0\ref\LibraryMVC.Core.dll
